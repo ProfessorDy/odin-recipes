@@ -1,0 +1,1 @@
+In this Project I will be practicing writing proper and semantically 'correct' html while creating a simple multi-page website
